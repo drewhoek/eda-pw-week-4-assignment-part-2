@@ -5,3 +5,13 @@
     background-color: blueviolet;
     color: gold;
 }
+.description {
+    background-color: gold;
+    color: blueviolet;
+}
+.content {
+    margin: auto;
+    width: 50%;
+    border: 5px solid black;
+    text-align: center;
+}
